@@ -16,22 +16,15 @@
 
 
     <!-- Latest compiled and minified CSS -->
-     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u"
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u"
         crossorigin="anonymous">
- 
-
-        <!-- <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" > -->
-
 
     <!-- Optional theme -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp"
         crossorigin="anonymous">
 
     <!-- CSS stylesheet -->
-   
-  <link rel="stylesheet" href="static/css/style.css">
-
-
+    <link rel="stylesheet" href="{{url_for('static',filename='css/style.css')}}">
 
 </head>
 
@@ -57,13 +50,18 @@
             </div>
 
             <div class="col-md-8 col-md-offset-2">
-                <p>It is no easy to determine a real relation between income and incidents in Toronto wards.</p>
+                <p>So what are some of the eye-catching associations? An inverse association between the household income and
+                    smoking was something I didn't expect (you may click the Household Income title text on the x-axis).
+                    The state of Utah doesn't seem to fit well with the model though. Another association I saw was between age dependency and alcohol consumption (if we exclude the state of DC, this relationship will become more apparent). If we for a moment forget the popular statement in statistics that correlation does not imply
+                    causation, we can probably say that people become sober when they are dealt with more responsibilities.
+                    We also can see an inverse association between poverty and being physically active.</p>
 
-                    <p> Total Incidents are higher where the median income is almost at the lower level. The ward with more incidents in Toronto
-                        is Humber River Black-Creek where Theft Over and Assault counts are the incidents with more impact on it!</p>
+                    <p> It is also interesting to see how the state of Puerto Rico is getting clustered-out from the inland states
+                        in North America in most of the indicators!</p>
 
 
-                    <p>Day of the week, Hour of the daty and premise type
+                    <p>This is my first D3 based data visualization. I would like to thank Scott Murray for his amazing book:
+                        Interactive Data Visualization for the Web, and Jeremy Hill at UT Austin for the inspiration and guidance.
                         </p>
 
 
