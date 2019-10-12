@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Project # 2 - TPS Crime Statistics - Major Crime Indicators </title>
+
+    <!-- google fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Barlow+Condensed" rel="stylesheet">
+
+    <!-- d3 -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.13.0/d3.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-tip/0.7.1/d3-tip.min.js"></script>
+
+
+    <!-- Latest compiled and minified CSS -->
+     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u"
+        crossorigin="anonymous">
+ 
+
+        <!-- <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" > -->
+
+
+    <!-- Optional theme -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp"
+        crossorigin="anonymous">
+
+    <!-- CSS stylesheet -->
+   
+  <link rel="stylesheet" href="static/css/style.css">
+
+
+
+</head>
+
+<body>
+
+    <div class="container">
+        <div class="row">
+            <div class="col-md-8 col-md-offset-2">
+                <h1>A Link Between Household Income and MCI - Major Crimes Indicators?</h1>
+
+                <p>Welcome to the Major Crime Indicators (MCI) Dashboard.
+                 The information contained in these dashboards refers to current Year-to-Date as well
+                as previous full Year End content. Current Year-to-Date data is not available for download.  </p>
+            </div>
+
+
+            <div class="col-md-10 col-md-offset-1">
+                <hr>
+                <div class="chart">
+                </div>
+
+                <hr>
+            </div>
+
+            <div class="col-md-8 col-md-offset-2">
+                <p>It is no easy to determine a real relation between income and incidents in Toronto wards.</p>
+
+                    <p> Total Incidents are higher where the median income is almost at the lower level. The ward with more incidents in Toronto
+                        is Humber River Black-Creek where Theft Over and Assault counts are the incidents with more impact on it!</p>
+
+
+                    <p>Day of the week, Hour of the daty and premise type
+                        </p>
+
+
+                    <a href="https://github.com/iragomez68/project-mci-analysis-2.0">Explore the code</a>
+
+            </div>
+
+        </div>
+    </div>
+
+    </div>
+
+
+    <script src="{{url_for('static',filename='js/app.js')}}"></script>
+
+</body>
+
+</html>
