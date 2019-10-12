@@ -1,0 +1,412 @@
+{
+    "objects": [
+        {
+            "name": "Davenport (17)",
+            "related": {
+                "boundary_set_url": "/boundary-sets/toronto-wards-2010/"
+            },
+            "boundary_set_name": "Toronto ward",
+            "external_id": "17",
+            "url": "/boundaries/toronto-wards-2010/davenport-17/"
+        },
+        {
+            "name": "Trinity-Spadina (19)",
+            "related": {
+                "boundary_set_url": "/boundary-sets/toronto-wards-2010/"
+            },
+            "boundary_set_name": "Toronto ward",
+            "external_id": "19",
+            "url": "/boundaries/toronto-wards-2010/trinity-spadina-19/"
+        },
+        {
+            "name": "Parkdale-High Park (13)",
+            "related": {
+                "boundary_set_url": "/boundary-sets/toronto-wards-2010/"
+            },
+            "boundary_set_name": "Toronto ward",
+            "external_id": "13",
+            "url": "/boundaries/toronto-wards-2010/parkdale-high-park-13/"
+        },
+        {
+            "name": "Parkdale-High Park (14)",
+            "related": {
+                "boundary_set_url": "/boundary-sets/toronto-wards-2010/"
+            },
+            "boundary_set_name": "Toronto ward",
+            "external_id": "14",
+            "url": "/boundaries/toronto-wards-2010/parkdale-high-park-14/"
+        },
+        {
+            "name": "Eglinton-Lawrence (16)",
+            "related": {
+                "boundary_set_url": "/boundary-sets/toronto-wards-2010/"
+            },
+            "boundary_set_name": "Toronto ward",
+            "external_id": "16",
+            "url": "/boundaries/toronto-wards-2010/eglinton-lawrence-16/"
+        },
+        {
+            "name": "Etobicoke-Lakeshore (6)",
+            "related": {
+                "boundary_set_url": "/boundary-sets/toronto-wards-2010/"
+            },
+            "boundary_set_name": "Toronto ward",
+            "external_id": "6",
+            "url": "/boundaries/toronto-wards-2010/etobicoke-lakeshore-6/"
+        },
+        {
+            "name": "Etobicoke-Lakeshore (5)",
+            "related": {
+                "boundary_set_url": "/boundary-sets/toronto-wards-2010/"
+            },
+            "boundary_set_name": "Toronto ward",
+            "external_id": "5",
+            "url": "/boundaries/toronto-wards-2010/etobicoke-lakeshore-5/"
+        },
+        {
+            "name": "Trinity-Spadina (20)",
+            "related": {
+                "boundary_set_url": "/boundary-sets/toronto-wards-2010/"
+            },
+            "boundary_set_name": "Toronto ward",
+            "external_id": "20",
+            "url": "/boundaries/toronto-wards-2010/trinity-spadina-20/"
+        },
+        {
+            "name": "Toronto Centre-Rosedale (28)",
+            "related": {
+                "boundary_set_url": "/boundary-sets/toronto-wards-2010/"
+            },
+            "boundary_set_name": "Toronto ward",
+            "external_id": "28",
+            "url": "/boundaries/toronto-wards-2010/toronto-centre-rosedale-28/"
+        },
+        {
+            "name": "Etobicoke Centre (3)",
+            "related": {
+                "boundary_set_url": "/boundary-sets/toronto-wards-2010/"
+            },
+            "boundary_set_name": "Toronto ward",
+            "external_id": "3",
+            "url": "/boundaries/toronto-wards-2010/etobicoke-centre-3/"
+        },
+        {
+            "name": "Davenport (18)",
+            "related": {
+                "boundary_set_url": "/boundary-sets/toronto-wards-2010/"
+            },
+            "boundary_set_name": "Toronto ward",
+            "external_id": "18",
+            "url": "/boundaries/toronto-wards-2010/davenport-18/"
+        },
+        {
+            "name": "Toronto Centre-Rosedale (27)",
+            "related": {
+                "boundary_set_url": "/boundary-sets/toronto-wards-2010/"
+            },
+            "boundary_set_name": "Toronto ward",
+            "external_id": "27",
+            "url": "/boundaries/toronto-wards-2010/toronto-centre-rosedale-27/"
+        },
+        {
+            "name": "Etobicoke Centre (4)",
+            "related": {
+                "boundary_set_url": "/boundary-sets/toronto-wards-2010/"
+            },
+            "boundary_set_name": "Toronto ward",
+            "external_id": "4",
+            "url": "/boundaries/toronto-wards-2010/etobicoke-centre-4/"
+        },
+        {
+            "name": "Toronto-Danforth (30)",
+            "related": {
+                "boundary_set_url": "/boundary-sets/toronto-wards-2010/"
+            },
+            "boundary_set_name": "Toronto ward",
+            "external_id": "30",
+            "url": "/boundaries/toronto-wards-2010/toronto-danforth-30/"
+        },
+        {
+            "name": "St. Paul's (21)",
+            "related": {
+                "boundary_set_url": "/boundary-sets/toronto-wards-2010/"
+            },
+            "boundary_set_name": "Toronto ward",
+            "external_id": "21",
+            "url": "/boundaries/toronto-wards-2010/st-pauls-21/"
+        },
+        {
+            "name": "St. Paul's (22)",
+            "related": {
+                "boundary_set_url": "/boundary-sets/toronto-wards-2010/"
+            },
+            "boundary_set_name": "Toronto ward",
+            "external_id": "22",
+            "url": "/boundaries/toronto-wards-2010/st-pauls-22/"
+        },
+        {
+            "name": "Beaches-East York (31)",
+            "related": {
+                "boundary_set_url": "/boundary-sets/toronto-wards-2010/"
+            },
+            "boundary_set_name": "Toronto ward",
+            "external_id": "31",
+            "url": "/boundaries/toronto-wards-2010/beaches-east-york-31/"
+        },
+        {
+            "name": "Beaches-East York (32)",
+            "related": {
+                "boundary_set_url": "/boundary-sets/toronto-wards-2010/"
+            },
+            "boundary_set_name": "Toronto ward",
+            "external_id": "32",
+            "url": "/boundaries/toronto-wards-2010/beaches-east-york-32/"
+        },
+        {
+            "name": "York South-Weston (12)",
+            "related": {
+                "boundary_set_url": "/boundary-sets/toronto-wards-2010/"
+            },
+            "boundary_set_name": "Toronto ward",
+            "external_id": "12",
+            "url": "/boundaries/toronto-wards-2010/york-south-weston-12/"
+        },
+        {
+            "name": "Toronto-Danforth (29)",
+            "related": {
+                "boundary_set_url": "/boundary-sets/toronto-wards-2010/"
+            },
+            "boundary_set_name": "Toronto ward",
+            "external_id": "29",
+            "url": "/boundaries/toronto-wards-2010/toronto-danforth-29/"
+        },
+        {
+            "name": "Etobicoke North (2)",
+            "related": {
+                "boundary_set_url": "/boundary-sets/toronto-wards-2010/"
+            },
+            "boundary_set_name": "Toronto ward",
+            "external_id": "2",
+            "url": "/boundaries/toronto-wards-2010/etobicoke-north-2/"
+        },
+        {
+            "name": "York South-Weston (11)",
+            "related": {
+                "boundary_set_url": "/boundary-sets/toronto-wards-2010/"
+            },
+            "boundary_set_name": "Toronto ward",
+            "external_id": "11",
+            "url": "/boundaries/toronto-wards-2010/york-south-weston-11/"
+        },
+        {
+            "name": "Don Valley West (26)",
+            "related": {
+                "boundary_set_url": "/boundary-sets/toronto-wards-2010/"
+            },
+            "boundary_set_name": "Toronto ward",
+            "external_id": "26",
+            "url": "/boundaries/toronto-wards-2010/don-valley-west-26/"
+        },
+        {
+            "name": "Scarborough Southwest (35)",
+            "related": {
+                "boundary_set_url": "/boundary-sets/toronto-wards-2010/"
+            },
+            "boundary_set_name": "Toronto ward",
+            "external_id": "35",
+            "url": "/boundaries/toronto-wards-2010/scarborough-southwest-35/"
+        },
+        {
+            "name": "Eglinton-Lawrence (15)",
+            "related": {
+                "boundary_set_url": "/boundary-sets/toronto-wards-2010/"
+            },
+            "boundary_set_name": "Toronto ward",
+            "external_id": "15",
+            "url": "/boundaries/toronto-wards-2010/eglinton-lawrence-15/"
+        },
+        {
+            "name": "Etobicoke North (1)",
+            "related": {
+                "boundary_set_url": "/boundary-sets/toronto-wards-2010/"
+            },
+            "boundary_set_name": "Toronto ward",
+            "external_id": "1",
+            "url": "/boundaries/toronto-wards-2010/etobicoke-north-1/"
+        },
+        {
+            "name": "Scarborough Centre (37)",
+            "related": {
+                "boundary_set_url": "/boundary-sets/toronto-wards-2010/"
+            },
+            "boundary_set_name": "Toronto ward",
+            "external_id": "37",
+            "url": "/boundaries/toronto-wards-2010/scarborough-centre-37/"
+        },
+        {
+            "name": "Scarborough Southwest (36)",
+            "related": {
+                "boundary_set_url": "/boundary-sets/toronto-wards-2010/"
+            },
+            "boundary_set_name": "Toronto ward",
+            "external_id": "36",
+            "url": "/boundaries/toronto-wards-2010/scarborough-southwest-36/"
+        },
+        {
+            "name": "York Centre (9)",
+            "related": {
+                "boundary_set_url": "/boundary-sets/toronto-wards-2010/"
+            },
+            "boundary_set_name": "Toronto ward",
+            "external_id": "9",
+            "url": "/boundaries/toronto-wards-2010/york-centre-9/"
+        },
+        {
+            "name": "York Centre (10)",
+            "related": {
+                "boundary_set_url": "/boundary-sets/toronto-wards-2010/"
+            },
+            "boundary_set_name": "Toronto ward",
+            "external_id": "10",
+            "url": "/boundaries/toronto-wards-2010/york-centre-10/"
+        },
+        {
+            "name": "Scarborough East (43)",
+            "related": {
+                "boundary_set_url": "/boundary-sets/toronto-wards-2010/"
+            },
+            "boundary_set_name": "Toronto ward",
+            "external_id": "43",
+            "url": "/boundaries/toronto-wards-2010/scarborough-east-43/"
+        },
+        {
+            "name": "Don Valley West (25)",
+            "related": {
+                "boundary_set_url": "/boundary-sets/toronto-wards-2010/"
+            },
+            "boundary_set_name": "Toronto ward",
+            "external_id": "25",
+            "url": "/boundaries/toronto-wards-2010/don-valley-west-25/"
+        },
+        {
+            "name": "Don Valley East (34)",
+            "related": {
+                "boundary_set_url": "/boundary-sets/toronto-wards-2010/"
+            },
+            "boundary_set_name": "Toronto ward",
+            "external_id": "34",
+            "url": "/boundaries/toronto-wards-2010/don-valley-east-34/"
+        },
+        {
+            "name": "York West (7)",
+            "related": {
+                "boundary_set_url": "/boundary-sets/toronto-wards-2010/"
+            },
+            "boundary_set_name": "Toronto ward",
+            "external_id": "7",
+            "url": "/boundaries/toronto-wards-2010/york-west-7/"
+        },
+        {
+            "name": "Scarborough Centre (38)",
+            "related": {
+                "boundary_set_url": "/boundary-sets/toronto-wards-2010/"
+            },
+            "boundary_set_name": "Toronto ward",
+            "external_id": "38",
+            "url": "/boundaries/toronto-wards-2010/scarborough-centre-38/"
+        },
+        {
+            "name": "York West (8)",
+            "related": {
+                "boundary_set_url": "/boundary-sets/toronto-wards-2010/"
+            },
+            "boundary_set_name": "Toronto ward",
+            "external_id": "8",
+            "url": "/boundaries/toronto-wards-2010/york-west-8/"
+        },
+        {
+            "name": "Willowdale (23)",
+            "related": {
+                "boundary_set_url": "/boundary-sets/toronto-wards-2010/"
+            },
+            "boundary_set_name": "Toronto ward",
+            "external_id": "23",
+            "url": "/boundaries/toronto-wards-2010/willowdale-23/"
+        },
+        {
+            "name": "Don Valley East (33)",
+            "related": {
+                "boundary_set_url": "/boundary-sets/toronto-wards-2010/"
+            },
+            "boundary_set_name": "Toronto ward",
+            "external_id": "33",
+            "url": "/boundaries/toronto-wards-2010/don-valley-east-33/"
+        },
+        {
+            "name": "Scarborough-Agincourt (40)",
+            "related": {
+                "boundary_set_url": "/boundary-sets/toronto-wards-2010/"
+            },
+            "boundary_set_name": "Toronto ward",
+            "external_id": "40",
+            "url": "/boundaries/toronto-wards-2010/scarborough-agincourt-40/"
+        },
+        {
+            "name": "Willowdale (24)",
+            "related": {
+                "boundary_set_url": "/boundary-sets/toronto-wards-2010/"
+            },
+            "boundary_set_name": "Toronto ward",
+            "external_id": "24",
+            "url": "/boundaries/toronto-wards-2010/willowdale-24/"
+        },
+        {
+            "name": "Scarborough-Agincourt (39)",
+            "related": {
+                "boundary_set_url": "/boundary-sets/toronto-wards-2010/"
+            },
+            "boundary_set_name": "Toronto ward",
+            "external_id": "39",
+            "url": "/boundaries/toronto-wards-2010/scarborough-agincourt-39/"
+        },
+        {
+            "name": "Scarborough-Rouge River (42)",
+            "related": {
+                "boundary_set_url": "/boundary-sets/toronto-wards-2010/"
+            },
+            "boundary_set_name": "Toronto ward",
+            "external_id": "42",
+            "url": "/boundaries/toronto-wards-2010/scarborough-rouge-river-42/"
+        },
+        {
+            "name": "Scarborough East (44)",
+            "related": {
+                "boundary_set_url": "/boundary-sets/toronto-wards-2010/"
+            },
+            "boundary_set_name": "Toronto ward",
+            "external_id": "44",
+            "url": "/boundaries/toronto-wards-2010/scarborough-east-44/"
+        },
+        {
+            "name": "Scarborough-Rouge River (41)",
+            "related": {
+                "boundary_set_url": "/boundary-sets/toronto-wards-2010/"
+            },
+            "boundary_set_name": "Toronto ward",
+            "external_id": "41",
+            "url": "/boundaries/toronto-wards-2010/scarborough-rouge-river-41/"
+        }
+    ],
+    "meta": {
+        "total_count": 44,
+        "previous": null,
+        "limit": 44,
+        "next": null,
+        "related": {
+            "simple_shapes_url": "/boundaries/toronto-wards-2010/simple_shape?offset=0&limit=44",
+            "centroids_url": "/boundaries/toronto-wards-2010/centroid?offset=0&limit=44",
+            "shapes_url": "/boundaries/toronto-wards-2010/shape?offset=0&limit=44"
+        },
+        "offset": 0
+    }
+}

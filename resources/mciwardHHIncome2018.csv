@@ -1,0 +1,126 @@
+wardnumber 2018,MCI,MCI count,wardmedian 2018,AREA_NAME
+1,Assault,4300,71580,Etobicoke North
+1,Auto Theft,2523,71580,Etobicoke North
+1,Break and Enter,1230,71580,Etobicoke North
+1,Robbery,1269,71580,Etobicoke North
+1,Theft Over,304,71580,Etobicoke North
+2,Assault,1629,79347,Etobicoke Centre
+2,Auto Theft,944,79347,Etobicoke Centre
+2,Break and Enter,1241,79347,Etobicoke Centre
+2,Robbery,419,79347,Etobicoke Centre
+2,Theft Over,136,79347,Etobicoke Centre
+3,Assault,3792,73213,Etobicoke-Lakeshore
+3,Auto Theft,1049,73213,Etobicoke-Lakeshore
+3,Break and Enter,1503,73213,Etobicoke-Lakeshore
+3,Robbery,608,73213,Etobicoke-Lakeshore
+3,Theft Over,364,73213,Etobicoke-Lakeshore
+4,Assault,3075,67376,Parkdale-High Park
+4,Auto Theft,459,67376,Parkdale-High Park
+4,Break and Enter,1216,67376,Parkdale-High Park
+4,Robbery,650,67376,Parkdale-High Park
+4,Theft Over,124,67376,Parkdale-High Park
+5,Assault,3941,53939,York South-Weston
+5,Auto Theft,1142,53939,York South-Weston
+5,Break and Enter,1145,53939,York South-Weston
+5,Robbery,986,53939,York South-Weston
+5,Theft Over,170,53939,York Centre
+6,Assault,3138,57232,York Centre
+6,Auto Theft,1154,57232,York Centre
+6,Break and Enter,1376,57232,York Centre
+6,Robbery,481,57232,York Centre
+6,Theft Over,243,57232,York Centre
+7,Assault,5387,56283,Humber River-Black Creek
+7,Auto Theft,1505,56283,Humber River-Black Creek
+7,Break and Enter,994,56283,Humber River-Black Creek
+7,Robbery,1123,56283,Humber River-Black Creek
+7,Theft Over,279,56283,Humber River-Black Creek
+8,Assault,2648,73409,Eglinton-Lawrence
+8,Auto Theft,1003,73409,Eglinton-Lawrence
+8,Break and Enter,1746,73409,Eglinton-Lawrence
+8,Robbery,650,73409,Eglinton-Lawrence
+8,Theft Over,265,73409,Eglinton-Lawrence
+9,Assault,3358,67701,Davenport
+9,Auto Theft,470,67701,Davenport
+9,Break and Enter,1163,67701,Davenport
+9,Robbery,646,67701,Davenport
+9,Theft Over,157,67701,Davenport
+10,Assault,6665,60647,Spadina-Fort York
+10,Auto Theft,463,60647,Spadina-Fort York
+10,Break and Enter,2002,60647,Spadina-Fort York
+10,Robbery,695,60647,Spadina-Fort York
+10,Theft Over,434,60647,Spadina-Fort York
+11,Assault,6128,67557,University-Rosedale
+11,Auto Theft,518,67557,University-Rosedale
+11,Break and Enter,2413,67557,University-Rosedale
+11,Robbery,1153,67557,University-Rosedale
+11,Theft Over,430,67557,University-Rosedale
+12,Assault,1839,69258,Toronto-St. Paul's
+12,Auto Theft,354,69258,Toronto-St. Paul's
+12,Break and Enter,1114,69258,Toronto-St. Paul's
+12,Robbery,303,69258,Toronto-St. Paul's
+12,Theft Over,143,69258,Toronto-St. Paul's
+13,Assault,8796,59156,Toronto Centre
+13,Auto Theft,550,59156,Toronto Centre
+13,Break and Enter,2596,59156,Toronto Centre
+13,Robbery,1959,59156,Toronto Centre
+13,Theft Over,445,59156,Toronto Centre
+14,Assault,3620,70757,Toronto-Danforth
+14,Auto Theft,432,70757,Toronto-Danforth
+14,Break and Enter,1541,70757,Toronto-Danforth
+14,Robbery,725,70757,Toronto-Danforth
+14,Theft Over,203,70757,Toronto-Danforth
+15,Assault,1424,76002,Don Valley West
+15,Auto Theft,363,76002,Don Valley West
+15,Break and Enter,1355,76002,Don Valley West
+15,Robbery,192,76002,Don Valley West
+15,Theft Over,166,76002,Don Valley West
+16,Assault,2268,61288,Don Valley East
+16,Auto Theft,339,61288,Don Valley East
+16,Break and Enter,819,61288,Don Valley East
+16,Robbery,368,61288,Don Valley East
+16,Theft Over,128,61288,Don Valley East
+17,Assault,2012,65894,Don Valley North
+17,Auto Theft,509,65894,Don Valley North
+17,Break and Enter,1048,65894,Don Valley North
+17,Robbery,337,65894,Don Valley North
+17,Theft Over,144,65894,Don Valley North
+18,Assault,2484,62640,Willowdale
+18,Auto Theft,512,62640,Willowdale
+18,Break and Enter,1172,62640,Willowdale
+18,Robbery,504,62640,Willowdale
+18,Theft Over,179,62640,Willowdale
+19,Assault,3649,65610,Beaches-East York
+19,Auto Theft,380,65610,Beaches-East York
+19,Break and Enter,1438,65610,Beaches-East York
+19,Robbery,716,65610,Beaches-East York
+19,Theft Over,168,65610,Beaches-East York
+20,Assault,4603,61288,Scarborough Southwest
+20,Auto Theft,527,61288,Scarborough Southwest
+20,Break and Enter,1768,61288,Scarborough Southwest
+20,Robbery,824,61288,Scarborough Southwest
+20,Theft Over,162,61288,Scarborough Southwest
+21,Assault,4768,58202,Scarborough Centre
+21,Auto Theft,955,58202,Scarborough Centre
+21,Break and Enter,1652,58202,Scarborough Centre
+21,Robbery,1045,58202,Scarborough Centre
+21,Theft Over,227,58202,Scarborough Centre
+22,Assault,1782,63879,Scarborough-Agincourt
+22,Auto Theft,455,63879,Scarborough-Agincourt
+22,Break and Enter,1207,63879,Scarborough-Agincourt
+22,Robbery,523,63879,Scarborough-Agincourt
+22,Theft Over,125,63879,Scarborough-Agincourt
+23,Assault,1755,66168,Scarborough North
+23,Auto Theft,592,66168,Scarborough North
+23,Break and Enter,1045,66168,Scarborough North
+23,Robbery,460,66168,Scarborough North
+23,Theft Over,168,66168,Scarborough North
+24,Assault,4998,61556,Scarborough-Guildwood
+24,Auto Theft,450,61556,Scarborough-Guildwood
+24,Break and Enter,1129,61556,Scarborough-Guildwood
+24,Robbery,929,61556,Scarborough-Guildwood
+24,Theft Over,127,61556,Scarborough-Guildwood
+25,Assault,2436,70764,Scarborough-Rouge Park
+25,Auto Theft,416,70764,Scarborough-Rouge Park
+25,Break and Enter,808,70764,Scarborough-Rouge Park
+25,Robbery,448,70764,Scarborough-Rouge Park
+25,Theft Over,85,70764,Scarborough-Rouge Park
