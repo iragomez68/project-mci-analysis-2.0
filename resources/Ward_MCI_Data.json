@@ -39,16 +39,11 @@
             "ward_name": "Etobicoke North",
             "HHMedianIncome": 71580,
             "location": "[-79.58467123107592, 43.719409813251644]",
+            "mci_total": 9626,
             "MCI": [
                 {
                     "name": "Assault",
-                    "count": 4300,
-                    "incident":[
-                        {"year":"2014",
-                        "dow":"monday",
-                        "premise":"appartment",
-                        "tod":"10"},
-                    ]
+                    "count": 4300
                 },
                 {
                     "name": "Auto Theft",
@@ -73,6 +68,7 @@
             "ward_name": "Etobicoke Centre",
             "HHMedianIncome": 79347,
             "location": "[-79.55252701676034, 43.66443385100261]",
+            "mci_total": 4369,
             "MCI": [
                 {
                     "name": "Assault",
@@ -101,6 +97,7 @@
             "ward_name": "Etobicoke-Lakeshore",
             "HHMedianIncome": 73213,
             "location": "[-79.52087054631912, 43.62164878864557]",
+            "mci_total": 7316,
             "MCI": [
                 {
                     "name": "Assault",
@@ -129,6 +126,7 @@
             "ward_name": "Parkdale-High Park",
             "HHMedianIncome": 67376,
             "location": "[-79.46734309591625, 43.650120849684974]",
+            "mci_total": 5524,
             "MCI": [
                 {
                     "name": "Assault",
@@ -157,6 +155,7 @@
             "ward_name": "York South-Weston",
             "HHMedianIncome": 53939,
             "location": "[-79.49337260252571, 43.69495374466498]",
+            "mci_total": 7384,
             "MCI": [
                 {
                     "name": "Assault",
@@ -185,6 +184,7 @@
             "ward_name": "York Centre",
             "HHMedianIncome": 57232,
             "location": "[-79.46780765337418, 43.75256879776807]",
+            "mci_total": 6392,
             "MCI": [
                 {
                     "name": "Assault",
@@ -213,6 +213,7 @@
             "ward_name": "Humber River-Black Creek",
             "HHMedianIncome": 56283,
             "location": "[-79.53027139578181, 43.75072621441007]",
+            "mci_total": 9288,
             "MCI": [
                 {
                     "name": "Assault",
@@ -241,6 +242,7 @@
             "ward_name": "Eglinton-Lawrence",
             "HHMedianIncome": 73409,
             "location": "[-79.4338461436749, 43.71831629494774]",
+            "mci_total": 6312,
             "MCI": [
                 {
                     "name": "Assault",
@@ -269,6 +271,7 @@
             "ward_name": "Davenport",
             "HHMedianIncome": 67701,
             "location": "[-79.44405037130906, 43.66935483342086]",
+            "mci_total": 5794,
             "MCI": [
                 {
                     "name": "Assault",
@@ -297,6 +300,7 @@
             "ward_name": "Spadina-Fort York",
             "HHMedianIncome": 60647,
             "location": "[-79.38733560724818, 43.635801297544724]",
+            "mci_total": 10259,
             "MCI": [
                 {
                     "name": "Assault",
@@ -325,6 +329,7 @@
             "ward_name": "University-Rosedale",
             "HHMedianIncome": 67557,
             "location": "[-79.39431224956856, 43.67114018210597]",
+            "mci_total": 10642,
             "MCI": [
                 {
                     "name": "Assault",
@@ -353,6 +358,7 @@
             "ward_name": "Toronto-St. Paul's",
             "HHMedianIncome": 69258,
             "location": "[-79.4139873040851, 43.69053009074875]",
+            "mci_total": 3753,
             "MCI": [
                 {
                     "name": "Assault",
@@ -381,6 +387,7 @@
             "ward_name": "Toronto Centre",
             "HHMedianIncome": 59156,
             "location": "[-79.37010160521132, 43.660143627306276]",
+            "mci_total": 14346,
             "MCI": [
                 {
                     "name": "Assault",
@@ -409,6 +416,7 @@
             "ward_name": "Toronto-Danforth",
             "HHMedianIncome": 70757,
             "location": "[-79.33925166569755, 43.665980133695044]",
+            "mci_total": 6521,
             "MCI": [
                 {
                     "name": "Assault",
@@ -437,6 +445,7 @@
             "ward_name": "Don Valley West",
             "HHMedianIncome": 76002,
             "location": "[-79.3753612656603, 43.72840075889285]",
+            "mci_total": 3500,
             "MCI": [
                 {
                     "name": "Assault",
@@ -465,6 +474,7 @@
             "ward_name": "Don Valley East",
             "HHMedianIncome": 61288,
             "location": "[-79.33298307049493, 43.73971967501285]",
+            "mci_total": 3922,
             "MCI": [
                 {
                     "name": "Assault",
@@ -493,6 +503,7 @@
             "ward_name": "Don Valley North",
             "HHMedianIncome": 65894,
             "location": "[-79.36003932715407, 43.78760308060638]",
+            "mci_total": 4050,
             "MCI": [
                 {
                     "name": "Assault",
@@ -521,6 +532,7 @@
             "ward_name": "Willowdale",
             "HHMedianIncome": 62640,
             "location": "[-79.41649996767849, 43.77688740097211]",
+            "mci_total": 4851,
             "MCI": [
                 {
                     "name": "Assault",
@@ -549,6 +561,7 @@
             "ward_name": "Beaches-East York",
             "HHMedianIncome": 65610,
             "location": "[-79.30667407750994, 43.68927152233702]",
+            "mci_total": 6351,
             "MCI": [
                 {
                     "name": "Assault",
@@ -577,6 +590,7 @@
             "ward_name": "Scarborough Southwest",
             "HHMedianIncome": 61288,
             "location": "[-79.25978904250549, 43.7136280859651]",
+            "mci_total": 7884,
             "MCI": [
                 {
                     "name": "Assault",
@@ -605,6 +619,7 @@
             "ward_name": "Scarborough Centre",
             "HHMedianIncome": 58202,
             "location": "[-79.27661410575871, 43.7527402307212]",
+            "mci_total": 8647,
             "MCI": [
                 {
                     "name": "Assault",
@@ -633,6 +648,7 @@
             "ward_name": "Scarborough-Agincourt",
             "HHMedianIncome": 63879,
             "location": "[-79.3081363311284, 43.79648590354776]",
+            "mci_total": 4092,
             "MCI": [
                 {
                     "name": "Assault",
@@ -661,6 +677,7 @@
             "ward_name": "Scarborough North",
             "HHMedianIncome": 66168,
             "location": "[-79.25467034276721, 43.80967391853659]",
+            "mci_total": 4020,
             "MCI": [
                 {
                     "name": "Assault",
@@ -689,6 +706,7 @@
             "ward_name": "Scarborough-Guildwood",
             "HHMedianIncome": 61556,
             "location": "[-79.21466456778637, 43.765800495564754]",
+            "mci_total": 7633,
             "MCI": [
                 {
                     "name": "Assault",
@@ -717,6 +735,7 @@
             "ward_name": "Scarborough-Rouge Park",
             "HHMedianIncome": 70764,
             "location": "[-79.17685103921572, 43.80565418102799]",
+            "mci_total": 4193,
             "MCI": [
                 {
                     "name": "Assault",
